@@ -8,3 +8,21 @@ header {
     text-align: center;
 }
 
+.lista {
+    border: 3px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3em;
+}
+
+.btn-dlt {
+    color: brown;
+    background: none;
+    border: 0;
+    font-size: 1em;
+}
+
+.completed {
+    text-decoration: line-through;
+}
